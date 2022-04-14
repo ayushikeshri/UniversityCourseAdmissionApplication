@@ -16,7 +16,7 @@ public class SpringGradleProject1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringGradleProject1Application.class, args);
-		System.out.println("connected");
+		System.out.println("table created");
 	
 		
 		
